@@ -52,12 +52,10 @@ Interviewer: ¿Frecuentemente siento que tengo que ayudarlos a todos, porque si 
 Interviewee: No generalmente me gusta confiar en las personas.
 Interviewer: ¿Tengo la percepción de que el mundo está en mi contra?
 Interviewee: El mundo esta a mi disposición.
-Interviewer: Tengo atracones de comida
-Interviewee: 
-Interviewer:
-Interviewee: 
-Interviewer:
-Interviewee: 
-Interviewer:
-Interviewee: 
-Interviewer:
+Interviewer: ¿Tengo atracones de comida?
+Interviewee: No, generalmente no.
+Interviewer: ¿Creo que la sinceridad es decirlo todo sin filtro, aún cuando al otro pudiera molestarle?
+Interviewee: Para nada, es importante cuidar las palabras para no dañar al resto.
+Interviewer: ¿Me cuesta conciliar el sueño cuando tengo una idea?
+Interviewee: Si, generalmente prefiero colocarme a trabajar de inmediato.
+
