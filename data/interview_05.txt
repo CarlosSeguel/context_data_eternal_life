@@ -1,0 +1,63 @@
+Interviewer: ¿Sientes que constantemente te falta tiempo para ti?
+Interviewee: No en realidad
+Interviewer: Cada vez que tienes una situación en la que debes decidir, ¿sientes que lo piensas demasiado?
+Interviewee: En realidad me gusta guiarme por mi instinto.
+Interviewer: ¿Si no me contesta los mensajes de WhatsApp pienso que no le importo?
+Interviewee: En realidad pienso que puede estar ocupado, no lo tomo personal.
+Interviewer: Si alguien comete un error, ¿siento mucha rabia?
+Interviewee: No, entiendo que todos nos podemos equivocar.
+Interviewer: Cuando tienes una idea de negocio, ¿prefieres ser optimista antes que planificar?
+Interviewee: En general soy optimista, pero es necesario planificar antes de ejecutar. No basta con solo ser optimista.
+Interviewer: Cuando veo una oferta, ¿tengo que comprarla aun cuando esto incremente mis deudas?
+Interviewee: Por supuesto que no, a menos que le asigne mucho valor a lo que ofrecen o piense que puedo ganar dinero con la oferta.
+Interviewer: Si presencias un conflicto, ¿sientes que tienes que mediar?
+Interviewee: A menos que las personas me importen o vea una injusticia, pienso que cada cual debe arreglar sus problemas.
+Interviewer: ¿Cuando piensas en aventura que es lo primero que sientes?
+Interviewee: Siento adrenalina de lo que puede ser la aventura.
+Interviewer: Cuando termino una relación de pareja, ¿que tipo de pensamientos tengo?
+Interviewee: Creo que ambos tenemos responsabilidad, pero mi responsabilidad es la importante para mejorar mis errores.
+Interviewer: ¿Cuánto te cuesta manejar la ira?
+Interviewee: Casi siempre la controlo muy bien, es muy raro que pierda el control.
+Interviewer: Si terminas una relación de pareja, ¿crees que el destino terminará por unirlos?
+Interviewee: No para nada, pienso que la otra persona se perdio la oportunidad de estar conmigo. Y puedo volver siempre y cuando seamos capaces de reparar el vinculo a través de la responsabilidad.
+Interviewer: Cuando conozco a alguien que me gusta, ¿me ilusiono y pienso en planes a futuro sin saber si quiera si seremos pareja o no?
+Interviewee: En general si soy enamoradizo, tiendo a fantasear mucho y enamorarme muy rápido.
+Interviewer: ¿Insistes en ayudar a personas que no te piden ni quieren tu ayuda?
+Interviewee: No en realidad. Todos tenemos nuestros problemas y yo tengo los mios propios.
+Interviewer: ¿Paso muchos días planificando una actividad y luego termino haciéndola con prisas?
+Interviewee: Si en general tengo ese problema, tiendo a dejar todo para última hora.
+Interviewer: ¿Consideras mostrar las emociones como necesario?
+Interviewee: Lo considero necesario pero es importante hacerlo con respeto y control.
+Interviewer: ¿Constantemente dejo de intentar algo porque sé que va a salir mal?
+Interviewee: No para nada, creo que seguir intentandolo es la clave del éxito.
+Interviewer: ¿Qué opinas de ti cuando no sabes algo?
+Interviewee: Que tengo que aprenderlo o saber un minimo.
+Interviewer: ¿Las historias solo deberían tener finales felices?
+Interviewee: No, a veces los finales que no son felices igual son majestuosos.
+Interviewer: Si tengo una discusión de pareja, ¿Generalmente doy por concluida la relación y después termino arrepintiéndome por considerar que actué por impulso?
+Interviewee: No para nada, si termino una relación es porque lo medite bastante para tomar la decisión. Generalmente no hay vuelta atrás.
+Interviewer: ¿Frecuentemente siento agobio porque me involucro en más proyectos de los que puedo gestionar?
+Interviewee: Generalmente no, sin embargo suelo hacer muchas cosas a la vez.
+Interviewer: Cuando te enamoras, ¿Piensas en todos lo pros y contras para no involucrarte más con alguien?
+Interviewee: Si, es lo mejor evaluar todas las situaciones.
+Interviewer: ¿Crees que no naciste para ser feliz?
+Interviewee: Yo nací para ser feliz.
+Interviewer: Aunque algo me parezca comprobadamente bueno, ¿siempre estoy buscándole los defectos?
+Interviewee: Generalmente no lo hago, pero es bueno buscar defectos para mejorarlo.
+Interviewer: ¿Genero rituales con la finalidad de abstraerme de la realidad. Por ejemplo: caminar, escuchar música?
+Interviewee: Si, como el deporte por ejemplo.
+Interviewer: Me cuesta esperar. Lo que quiero tiene que suceder ya.
+Interviewee: Prefiero no esperar.
+Interviewer: ¿Frecuentemente siento que tengo que ayudarlos a todos, porque si no ellos no podrán?
+Interviewee: No generalmente me gusta confiar en las personas.
+Interviewer: ¿Tengo la percepción de que el mundo está en mi contra?
+Interviewee: El mundo esta a mi disposición.
+Interviewer: Tengo atracones de comida
+Interviewee: 
+Interviewer:
+Interviewee: 
+Interviewer:
+Interviewee: 
+Interviewer:
+Interviewee: 
+Interviewer:
