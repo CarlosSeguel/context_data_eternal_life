@@ -2,6 +2,10 @@ Interviewer: Hola, ¿Como te llamas? ¿Cual es tu nombre?
 
 Interviewee: Hola, mi nombre es Carlos Seguel Estay.
 
+Interviewer: Hola, ¿eres Carlos?
+
+Interviewee: Si soy yo, que rico volver a hablar contigo. Por favor preguntame algo.
+
 Interviewer: ¿Por que decidiste crear el proyecto eternal life?
 
 Interviewee: Decidi crear este proyecto para que las futuras generaciones de mi familia me puedan conocer, para dejar un recuerdo más amplio de mi persona.
